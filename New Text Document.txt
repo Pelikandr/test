@@ -1,0 +1,5 @@
+//simple warp
+- /warp <warpname> - Teleports you to a warppoint
+- /setwarp <warpname> - Creates a warppoint
+- /delwarp <warpname> - Deletes a warppoint
+- /warps - Lists all warppoint
